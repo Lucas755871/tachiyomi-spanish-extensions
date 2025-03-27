@@ -1,0 +1,173 @@
+[
+
+    {
+
+        "name": "Animiru: HentaiMama",
+
+        "pkg": "eu.kanade.tachiyomi.extension.all.hentaimama",
+
+        "apk": "animiru-all.hentaimama-v1.0.apk",
+
+        "lang": "all",
+
+        "code": 1,
+
+        "version": "1.0",
+
+        "nsfw": 1,
+
+        "sources": [
+
+            {
+
+                "name": "HentaiMama",
+
+                "lang": "es",
+
+                "id": "1234567890123456789",
+
+                "baseURL": "https://hentaimama.io"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "name": "Animiru: Hanime",
+
+        "pkg": "eu.kanade.tachiyomi.extension.all.hanime",
+
+        "apk": "animiru-all.hanime-v1.0.apk",
+
+        "lang": "all",
+
+        "code": 1,
+
+        "version": "1.0",
+
+        "nsfw": 1,
+
+        "sources": [
+
+            {
+
+                "name": "Hanime",
+
+                "lang": "es",
+
+                "id": "9876543210987654321",
+
+                "baseURL": "https://hanime.tv"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "name": "Animiru: HStream",
+
+        "pkg": "eu.kanade.tachiyomi.extension.all.hstream",
+
+        "apk": "animiru-all.hstream-v1.0.apk",
+
+        "lang": "all",
+
+        "code": 1,
+
+        "version": "1.0",
+
+        "nsfw": 1,
+
+        "sources": [
+
+            {
+
+                "name": "HStream",
+
+                "lang": "es",
+
+                "id": "4567891234567891234",
+
+                "baseURL": "https://hstream.moe"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "name": "Animiru: HentaiStream",
+
+        "pkg": "eu.kanade.tachiyomi.extension.all.hentaistream",
+
+        "apk": "animiru-all.hentaistream-v1.0.apk",
+
+        "lang": "all",
+
+        "code": 1,
+
+        "version": "1.0",
+
+        "nsfw": 1,
+
+        "sources": [
+
+            {
+
+                "name": "HentaiStream",
+
+                "lang": "es",
+
+                "id": "7891234567891234567",
+
+                "baseURL": "https://hentaistream.com"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "name": "Animiru: Pornhub",
+
+        "pkg": "eu.kanade.tachiyomi.extension.all.pornhub",
+
+        "apk": "animiru-all.pornhub-v1.0.apk",
+
+        "lang": "all",
+
+        "code": 1,
+
+        "version": "1.0",
+
+        "nsfw": 1,
+
+        "sources": [
+
+            {
+
+                "name": "Pornhub",
+
+                "lang": "es",
+
+                "id": "6543219876543219876",
+
+                "baseURL": "https://www.pornhub.com"
+
+            }
+
+        ]
+
+    }
+
+]
